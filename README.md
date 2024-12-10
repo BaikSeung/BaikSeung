@@ -6,22 +6,18 @@
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript  
-- 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
-- 🛢️ **Databases**: MySQL, PostgreSQL  
+- 💻 **Languages**: Java, Python
+- 🌐 **Frameworks & Libraries**: Spring Boot, React  
+- 🛢️ **Databases**: MySQL,
 - ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
 
 ---
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: Qna project](https://github.com/yourusername/project1)
+### 📊 [Project 1: Qna project](https://github.com/Baikseungwoo/gdsc-seoultech.github.io)
 - **Tech Stack**: Spring, Java, Docker  
 - **Summary**: A board for questions and answers.
-
-### 🕹️ [Project 2: Game Development Project](https://github.com/yourusername/project2)
-- **Tech Stack**: Pygame, Python  
-- **Summary**: A simple avoider game built with Pygame.
 
 ---
 
