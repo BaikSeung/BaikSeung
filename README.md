@@ -15,9 +15,9 @@
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: Smart Data Dashboard](https://github.com/yourusername/project1)
-- **Tech Stack**: React, Django, PostgreSQL  
-- **Summary**: A data visualization tool for business analytics.
+### 📊 [Project 1: Qna project](https://github.com/yourusername/project1)
+- **Tech Stack**: Spring, Java, Docker  
+- **Summary**: A board for questions and answers.
 
 ### 🕹️ [Project 2: Game Development Project](https://github.com/yourusername/project2)
 - **Tech Stack**: Pygame, Python  
