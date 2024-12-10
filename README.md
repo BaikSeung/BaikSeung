@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Seungwoo Bail]!
+# 👋 Hi, I'm [Seungwoo Baik]!
 
 🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
 
